@@ -11,3 +11,4 @@
 |---|---|---|
 | **[layout](https://uiid.systems/layout)** | [![npm](https://badge.fury.io/js/@uiid%2Flayout.svg)](https://badge.fury.io/js/@uiid%2Flayout) | react layout components |
 | **[typography](https://uiid.systems/typography)** | [![npm](https://badge.fury.io/js/@uiid%2Ftypography.svg)](https://badge.fury.io/js/@uiid%2Ftypography) | react typography components |
+| **[inputs](https://uiid.systems/inputs)** | [![npm](https://badge.fury.io/js/@uiid%2Finputs.svg)](https://badge.fury.io/js/@uiid%2Finputs) | react input components |
